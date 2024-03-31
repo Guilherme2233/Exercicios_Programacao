@@ -13,13 +13,13 @@ public class Exercicio_003 {
             System.out.println("Digite o segundo numero: ");
             int Numero_2 = Input.nextInt();
 
-            int Adição = Numero_1 + Numero_2;
-            int Subtração = Numero_1 - Numero_2;
-            int Multiplicação = Numero_1 * Numero_2;
+            int Adicao = Numero_1 + Numero_2;
+            int Subtracao = Numero_1 - Numero_2;
+            int Multiplicacao = Numero_1 * Numero_2;
 
-            System.out.println("A soma entre " + Numero_1 + " + " + Numero_2 + " = " + Adição);
-            System.out.println("A subtração entre " + Numero_1 + " - " + Numero_2 + " = " + Subtração);
-            System.out.println("A multiplicação entre " + Numero_1 + " X " + Numero_2 + " = " + Multiplicação);
+            System.out.println("A soma entre " + Numero_1 + " + " + Numero_2 + " = " + Adicao);
+            System.out.println("A subtração entre " + Numero_1 + " - " + Numero_2 + " = " + Subtracao);
+            System.out.println("A multiplicação entre " + Numero_1 + " X " + Numero_2 + " = " + Multiplicacao);
 
             if (Numero_1 == 0 || Numero_2 == 0) {
                 System.out.println("Erro!, Não é possivel dividir por 0");

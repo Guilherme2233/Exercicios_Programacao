@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Exercicio_011 {
     //deixei este arquivo vazio sobrando, caso vc queira me enviar um desafio.//
     
@@ -5,6 +6,7 @@ public class Exercicio_011 {
 
 
     public static void main(String[] args) {
+        
         
     }
     
