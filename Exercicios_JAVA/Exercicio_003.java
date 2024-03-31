@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio_003 {  
-    /*EXERCICIO 3: Crie um açgoritmo que faça as 4 operações basicas: Adição, subtração, multiplicação e divisão. caso o usuario digite 0, apareca "erro! não e possivel dividir por 0"
+    /*EXERCICIO 3: Crie um algoritmo que faça as 4 operações basicas: Adição, subtração, multiplicação e divisão. caso o usuario digite 0, apareca "erro! não e possivel dividir por 0"
 */
     
     public static void main(String[] args) {
