@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Exercicio_7 {
-    /*Exercicio 7: Faça um algoritmo que diga quantos digitos pussui em uma string digitada pelo usuario */
-    
+    /*EXERCICIO 7: Faça um algoritmo que diga quantos digitos pussui em uma string digitada pelo usuario */
+
     public static void main(String[] args) {
       
         try (Scanner input = new Scanner(System.in)) {

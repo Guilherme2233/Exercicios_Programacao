@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Exercicio_6 {
     public static void main(String[] args) {
-        /* Exercicio 6: Crie um programa que faça a tabuada do numero que o usuario digitar */
+        /* EXERCICIO 6: Crie um programa que faça a tabuada do 1 ao 10 do numero que o usuario digitar */
 
         try (Scanner Input = new Scanner(System.in)) {
             System.out.println("Digite o numero da tabuada que deseja ver: ");

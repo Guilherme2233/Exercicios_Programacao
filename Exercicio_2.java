@@ -1,5 +1,5 @@
 public class Exercicio_2 {
-    /*Exercicio 2: Faça as 4 operações basicas: adição, subtração, multiplicação e divisão.*/
+    /*EXERCICIO 2: Faça as 4 operações basicas: adição, subtração, multiplicação e divisão.*/
     
     public static void main(String[] args) {
         int Numero_1 = 5;
