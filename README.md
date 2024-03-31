@@ -6,3 +6,4 @@ EDITOR DE CÒDIGO UTILIZADO: Visual Studio Code
 
 LINGUAGEM UTILIZADA: JAVA
 
+OBS: (Voce pode me enviar um desafio no ultimo Exercicio da lista, assim que possivel irei responde-lo) 
