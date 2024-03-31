@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Exercicio_004 {
-    /*EXERCICIO 4: faça um algoritmo que calcule a media de um aluno. caso a media do aluno seja menor que 5, diga que ele reprovou, caso for igual ou maior que 5 diga que ele esta aprovado e caso a média seja igual a 10 diga que ele foi aprovado e os de parabens */
+    /*EXERCICIO 4: faça um algoritmo que calcule a media de um aluno. caso a media do aluno seja menor que 5, diga que ele reprovou,
+    caso for igual ou maior que 5 diga que ele esta aprovado e caso a média seja igual a 10 diga que ele foi aprovado e os de parabens */
 
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
