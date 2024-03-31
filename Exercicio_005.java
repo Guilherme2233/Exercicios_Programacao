@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercicio_5 {
+public class Exercicio_005 {
     /*EXERCICIO 5: Crie um algoritmo que pergunte o nome, altura, peso, idade e a nacionalidade do usuario e então imprima na tela */
 
     public static void main(String[] args) {

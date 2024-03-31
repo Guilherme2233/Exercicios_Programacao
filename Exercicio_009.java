@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.*;
 
-public class Exercicio_9 {
+public class Exercicio_009 {
     /*
      * EXERCICIO 9: Faça um algoritmo que calcule a idade de uma pessoa a partir do
      * dia, mes e ano em que ela nasceu

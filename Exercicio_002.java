@@ -1,4 +1,4 @@
-public class Exercicio_2 {
+public class Exercicio_002 {
     /*EXERCICIO 2: Faça as 4 operações basicas: adição, subtração, multiplicação e divisão.*/
     
     public static void main(String[] args) {

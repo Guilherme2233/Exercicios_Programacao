@@ -1,5 +1,5 @@
 import java.util.*;
-public class Exercicio_10 {
+public class Exercicio_010 {
 /*EXERCICIO 10: Faça um algoritmo que de um aumento de 1o% no salario de um funcionario */
 
     public static void main(String[] args) {
