@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 public class Exercicio_3 {  
-    /*Exercicio 3:Faça as 4 operações basicas:Adição, Subtração, Multiplicação e Divisão, mas faça que o numero seja fornecido pelo usuario. e caso o usuario digite 0, imprima no terminal:"erro, não é possivel dividir um numero por 0*/
+    /*Exercicio 3:Faça as 4 operações basicas:Adição, Subtração, Multiplicação e Divisão,
+     mas faça que o numero seja fornecido pelo usuario.
+     e caso o usuario digite 0, imprima no terminal:"erro, não é possivel dividir um numero por 0*/
     
     public static void main(String[] args) {
 
@@ -21,7 +23,7 @@ public class Exercicio_3 {
             System.out.println("A multiplicação entre " + Numero_1 + " X " + Numero_2 + " = " + Multiplicação);
 
             if (Numero_1 == 0 || Numero_2 == 0) {
-                System.out.println("Erro, Não é possivel dividir por 0");
+                System.out.println("Erro!, Não é possivel dividir por 0");
 
             } else {
                 System.out.println("A divisão entre " + Numero_1 + " / " + Numero_2 + " = " + Numero_1 / Numero_2);
