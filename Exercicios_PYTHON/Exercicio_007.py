@@ -3,4 +3,4 @@
 Frase = str(input("Digite alguma frase:"))
 qtd_letras = len(Frase)
 
-print("a frase que voce digitou tem", qtd_letras,"digitos")
+print("a frase que voce digitou tem", qtd_letras,"letras")

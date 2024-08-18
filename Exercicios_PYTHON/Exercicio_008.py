@@ -7,7 +7,7 @@ qtd_convidados:int = 0
 
 while Parar == 0:
     Adicionar_Convidado = str(input("digite o nome:"))
-    Parar = int(input("Deseja adicionar mais um convidado? (0) Adicionar (1) Encerrar"))
+    Parar = int(input("Deseja adicionar mais um convidado? (0) Adicionar (1) Encerrar: "))
     lista.append(Adicionar_Convidado)
     
 print("__________Lista Final__________")
